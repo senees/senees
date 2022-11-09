@@ -1,3 +1,9 @@
+## pronounce
 [siːn'i:s]
-# projects guide
+
+## projects
+
+## blog
+
+[notes](https://seenees.github.io/)
 
