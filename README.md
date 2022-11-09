@@ -1,4 +1,3 @@
 [siːn'i:s]
-
-# seenees projects
+# projects guide
 
