@@ -1,9 +1,8 @@
-## pronounce
 [siːn'i:s]
 
 ## projects
 
-## blog
+(tbd)
 
-[notes](https://seenees.github.io/)
+## [notes](https://seenees.github.io/)
 
