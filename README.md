@@ -1,8 +1,4 @@
-[siːn'i:s]
+[sin'i:s]
 
-### projects
-
-(tbd)
-
-### [notes](https://seenees.github.io/)
+### [notes](https://senees.github.io/)
 
